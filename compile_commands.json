@@ -1,0 +1,25 @@
+[
+ {
+  "directory": "/home/andrew/src/clangd_test",
+  "arguments": [
+   "gcc",
+   "-c",
+   "-Iinclude",
+   "main.c",
+   "-o",
+   "main.o"
+  ],
+  "file": "main.c"
+ },
+ {
+  "directory": "/home/andrew/src/clangd_test",
+  "arguments": [
+   "gcc",
+   "-c",
+   "func.c",
+   "-o",
+   "func.o"
+  ],
+  "file": "func.c"
+ }
+]
