@@ -2,3 +2,5 @@
 .cache
 *.o
 main
+main.*
+main.*
