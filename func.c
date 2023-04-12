@@ -1,5 +1,5 @@
 int
-add_test(int a, int b) {
+add_test123(int a, int b) {
     int c;
     c = a + b;
     return c;
