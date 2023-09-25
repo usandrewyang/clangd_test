@@ -8,7 +8,6 @@ main()
 {
     int a = 10, b = 20, sum = 0;
     int c = d;
-    int d = d;
     printf("c = %d, d = %d\n", c, d);
     char* input_ingress_packet_str =
         "00000000000200000000000181000002"

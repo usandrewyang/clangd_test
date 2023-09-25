@@ -1,6 +1,6 @@
 [
  {
-  "directory": "/Users/ay895922/src/clangd_test",
+  "directory": "/home/andrew/src/clangd_test",
   "arguments": [
    "gcc",
    "-c",
@@ -12,7 +12,7 @@
   "file": "main.c"
  },
  {
-  "directory": "/Users/ay895922/src/clangd_test",
+  "directory": "/home/andrew/src/clangd_test",
   "arguments": [
    "gcc",
    "-c",
